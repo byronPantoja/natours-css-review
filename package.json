@@ -1,0 +1,16 @@
+{
+  "name": "natours-css-review",
+  "version": "1.0.0",
+  "description": "Re-learning CSS - Finding myself relying too much on tailwindui that I find myself struggling with layouts more than functionality. Go slow to go fast...",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [],
+  "author": "Byron Pantoja",
+  "license": "ISC",
+
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
