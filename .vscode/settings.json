@@ -1,0 +1,6 @@
+{
+    "cloudcode.yaml.format.singleQuote": true,
+    "prettier.singleQuote": true,
+    "yaml.format.singleQuote": true,
+    "html.completion.attributeDefaultValue": "singlequotes"
+}
