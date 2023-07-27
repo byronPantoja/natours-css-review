@@ -1,0 +1,15 @@
+$--white: hsl(0, 0%, 100%);
+$--green--light: hsla(111, 55%, 64%, 0.8);
+$--green--dark: hsla(160, 64%, 43%, 0.8);
+
+$--yellow--main: hsl(62, 100%, 72%);
+$--yellow--orange: hsl(40, 100%, 72%);
+
+$--base-size: 62.5%;
+$--type-scale: 1.125;
+$--h5: calc(var($--base-size) * var($--type-scale));
+$--h4: calc(var($--h5) * var($--type-scale));
+$--h3: calc(var($--h4) * var($--type-scale));
+$--h2: calc(var($--h3) * var($--type-scale));
+$--h1: calc(var($--h2) * var($--type-scale));
+
