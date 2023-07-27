@@ -4,7 +4,8 @@
   "description": "Re-learning CSS - Finding myself relying too much on tailwindui that I find myself struggling with layouts more than functionality. Go slow to go fast...",
   "main": "index.html",
   "scripts": {
-    "start": "serve"
+    "start": "serve",
+    "compile:sass": "node-sass sass/main.scss css/main.css -w"
   },
   "keywords": [],
   "author": "Byron Pantoja",
