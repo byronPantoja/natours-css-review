@@ -6,10 +6,6 @@
   "scripts": {
     "start": "serve"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
-  },
   "keywords": [],
   "author": "Byron Pantoja",
   "license": "ISC",
