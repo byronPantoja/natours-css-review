@@ -9,8 +9,8 @@
   "keywords": [],
   "author": "Byron Pantoja",
   "license": "ISC",
-
   "devDependencies": {
-    "serve": "^11.2.0"
+    "node-sass": "^9.0.0",
+    "serve": "^14.2.0"
   }
 }
